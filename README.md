@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Julián Castrillón</h1>
-<img align="center" alt="https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1706745600&v=beta&t=Ewxso8Y7Jly5_aLKJ1x8y2Iv8ve8SLMYTyS3pQ64Qlg" src="[[https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1706745600&v=beta&t=Ewxso8Y7Jly5_aLKJ1x8y2Iv8ve8SLMYTyS3pQ64Qlg](https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1714608000&v=beta&t=zZKFY0r33PM1QXJVgvnrPNbc6GKSLLuLIUYZE41yAeQ)](https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1714608000&v=beta&t=zZKFY0r33PM1QXJVgvnrPNbc6GKSLLuLIUYZE41yAeQ)">
+<img align="center" alt="https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1706745600&v=beta&t=Ewxso8Y7Jly5_aLKJ1x8y2Iv8ve8SLMYTyS3pQ64Qlg" src="https://media.licdn.com/dms/image/D4E16AQER42RV0PvUew/profile-displaybackgroundimage-shrink_350_1400/0/1689272357072?e=1714608000&v=beta&t=zZKFY0r33PM1QXJVgvnrPNbc6GKSLLuLIUYZE41yAeQ">
 <h3 align="center">I'm a passionate software developer with experience in a variety of technologies.</h3>
 
 
