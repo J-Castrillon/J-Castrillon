@@ -1,129 +1,135 @@
-
-
-
-<h1 align="center">Hi 👋, I'm Julián Castrillón</h1>
-<h3 align="center">I'm a passionate software developer with experience in a variety of technologies.</h3>
-
-
-- 🔭 I’m currently working on [CodeFix-Computer-Repair](https://github.com/J-Castrillon/CodeFix-Computer-Repair)
-
-- 🌱 I’m currently learning **Vue**
-
-- 👨‍💻 All of my projects are available at [https://incandescent-dieffenbachia-e1498a.netlify.app/](https://incandescent-dieffenbachia-e1498a.netlify.app/)
-
-- 📫 How to reach me **juliancastrillon681@gmaill.com**
-
-
-<h3 align="left">📲Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/juli%c3%a1n-castrill%c3%b3n-364056168/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/juli%c3%a1n-castrill%c3%b3n-364056168/" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/juliancastrillon17/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/juliancastrillon17/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Juli%C3%A1n%20Castrill%C3%B3n&fontSize=58&fontColor=ffffff&animation=fadeIn&desc=Software%20Development%20Engineer&descAlignY=65&descSize=22" alt="Header" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <h4>Frontend</h4>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=00D4FF&center=true&vCenter=true&width=800&height=40&lines=Full+Stack+%2F+Microservices+%2F+AI+Agents;Event-Driven+Systems+with+RabbitMQ;Flutter+%2F+Dart+%2F+Cross-Platform+Apps;Linux+%2F+Windows+%2F+macOS" alt="Typing animation" />
 </p>
 
-<p align="left">
-<h4>Frontend Frameworks</h4>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
- <h4>Frontend Tools</h4>
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://www.chartjs.org" target="_blank" rel="noreferrer">
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-<h4>Backend</h4>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <h4>Mobile</h4>
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-  <h4>Databases</h4>
-   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
-    <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-  </a>
-  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/>
-  </a>
-</p>
-<p align="left">
-    <h4>Tools and Operating Systems</h4>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
+```yaml
+whoami:     Julián Castrillón
+role:       Senior Full Stack Developer @ Pascual Bravo
+focus:      microservices, event-driven systems, AI agents
+building:   risk management platforms for the Medellín metro area
+kernels:    linux, windows, macos
+```
+
+---
+
+## 👋 About
+
+Software developer with 4+ years of experience, passionate about building and optimizing user interfaces and web applications. I design distributed backends, model databases, and ship interactive dashboards, from the first UML diagram to production containers.
+
+---
+
+## 🏗️ Architectures I design with
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Microservices-6F42C1?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Event--Driven-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST_APIs-0E7C86?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-2F3E46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Layered-2F3E46?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/UML_Modeling-30363D?style=for-the-badge" />
 </p>
 
+<p align="center">
+  <sub>Client → Gateway → Services → Message Broker → Database → Containers</sub>
+</p>
 
-<h5 align="left">I'm always interested in collaborating on new projects! You can contact me through my email or follow me on my LinkedIn profile 👋🏻</h5>
+---
+
+## 🧰 Stack, by layer
+
+<table align="center">
+  <tr>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="56" /><br/><sub><b>React</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="56" /><br/><sub><b>Vite</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vue" width="56" /><br/><sub><b>Vue.js</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nuxtjs" width="56" /><br/><sub><b>Nuxt 3</b></sub></td>
+    <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="56" /><br/><sub><b>Tailwind</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nodejs" width="56" /><br/><sub><b>Node.js</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nestjs" width="56" /><br/><sub><b>NestJS</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=express" width="56" /><br/><sub><b>Express</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rabbitmq" width="56" /><br/><sub><b>RabbitMQ</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=rails" width="56" /><br/><sub><b>Rails</b></sub></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://skillicons.dev/icons?i=postgres" width="56" /><br/><sub><b>PostgreSQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mysql" width="56" /><br/><sub><b>MySQL</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=mongodb" width="56" /><br/><sub><b>MongoDB</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=docker" width="56" /><br/><sub><b>Docker</b></sub></td>
+    <td align="center"><img src="https://skillicons.dev/icons?i=nginx" width="56" /><br/><sub><b>NGINX</b></sub></td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,html,css,sass,php,cs,ruby,matlab,git,github,bitbucket,openshift,jest,postman&perline=8" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL_Server-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/TypeORM-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Zustand-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Query-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/React_Hook_Form-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Valibot-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Supertest-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/PHPUnit-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/DBeaver-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Jira-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Trello-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Microsoft_365-30363D?style=flat-square" />
+  <img src="https://img.shields.io/badge/Scrum-30363D?style=flat-square" />
+</p>
+
+---
+
+## 📱 Cross-platform & kernels
+
+I build for mobile and desktop from one codebase, and I'm comfortable working across operating system kernels.
+
+<table align="center">
+  <tr>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=flutter" width="56" /><br/><sub><b>Flutter</b></sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=dart" width="56" /><br/><sub><b>Dart</b></sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=linux" width="56" /><br/><sub><b>Linux</b></sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=windows" width="56" /><br/><sub><b>Windows</b></sub></td>
+    <td align="center" width="140"><img src="https://skillicons.dev/icons?i=apple" width="56" /><br/><sub><b>macOS</b></sub></td>
+  </tr>
+</table>
+
+---
+
+## 🤖 AI & agentic workflows
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OpenCode-1F2328?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI_Agents-6F42C1?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Local_AI-0E7C86?style=for-the-badge" />
+</p>
+
+---
+
+## 📊 GitHub stats
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
+</p>
+
+---
+
+## 📫 Let's connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/julián-castrillón-sánchez-364056168"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:juliancastrillon681@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <i>Always learning and building useful things 🚀</i>
+</p>
